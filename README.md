@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
+- 📫 How to reach me: rishabhthakur046@gmail.com;
 - ⚡ Fun fact: I love to do photography 
 
 
