@@ -44,3 +44,10 @@
 [instagram]: https://www.instagram.com/rishabhthakur_11
 [linkedin]: https://www.linkedin.com/in/rishabh-thakur-110301
 
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rishabhthankur11&show_icons=true&theme=gotham" alt="Rishabh Thakur" />
+  
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
+
