@@ -44,7 +44,7 @@
 [instagram]: https://www.instagram.com/rishabhthakur_11
 [linkedin]: https://www.linkedin.com/in/rishabh-thakur-110301
 
-📈 My GitHub Stats
+📈 My GitHub Status
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rishabhthakur11&show_icons=true&theme=gotham" alt="Rishabh Thakur" />
   
