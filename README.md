@@ -1,6 +1,6 @@
 ### Hi there, I'm Rishabh Thakur 👋
 
-## I'm a Student, Competitive Coder, Developer, and Video Editor!!
+## I'm a Student,programmer, Developer, and Video Editor!!
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
