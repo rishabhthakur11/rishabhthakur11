@@ -1,15 +1,15 @@
 ### Hi there, I'm Rishabh Thakur 👋
 
-## I'm a Student,programmer, Developer, and Video Editor!!
-
+## I'm a Full Stack Javascript developer
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+## Skills
+- 👨‍💻 JavaScript,C++
+- ⚙️  React, Nextjs, React-Native
+- 👁️ SASS, CSS, Tailwind
+- 💽 MySQL, SQL, Mongo , Sanity 
 - 📫 How to reach me: rishabhthakur046@gmail.com;
-- ⚡ Fun fact: I love to do photography 
 
 
 ### Connect with me:
@@ -49,5 +49,10 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rishabhthakur11&show_icons=true&theme=gotham" alt="Rishabh Thakur" />
   
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" />
+</h1>
+
 
 
