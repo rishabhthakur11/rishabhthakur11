@@ -5,10 +5,10 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 
 ## Skills
-- 👨‍💻 JavaScript,C++
+- 👨‍💻 JavaScript, C++, Golang
 - ⚙️  React, Nextjs, React-Native
 - 👁️ SASS, CSS, Tailwind
-- 💽 MySQL, SQL, Mongo , Sanity 
+- 💽 MySQL, SQL, Mongodb, Sanity 
 - 📫 How to reach me: rishabhthakur046@gmail.com;
 
 
